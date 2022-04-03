@@ -1,3 +1,3 @@
 Payments.xlsx is the original data file.
 
-It has been cleaned and processed for data visualization in Tableau.
+payments_final.xlsx is the version that has been cleaned and processed for data visualization in Tableau.
